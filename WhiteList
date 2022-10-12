@@ -1,4 +1,4 @@
 local Whitelisted = {
-841538471,
+841538471,978861178
 }
 return Whitelisted
